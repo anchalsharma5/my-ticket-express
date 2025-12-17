@@ -1,0 +1,1 @@
+/jira-proxy/* https://pentair.atlassian.net/rest/api/2/issue/:splat 200
